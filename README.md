@@ -5,5 +5,7 @@ This project encompasses a comprehensive analysis of YouTube data using Python o
 To Run:
 
 Ensure Python and Jupyter Notebook are installed.
+
 Clone this repository and navigate to the project directory.
+
 Open the Jupyter Notebook file and execute each cell sequentially to reproduce the analyses.
